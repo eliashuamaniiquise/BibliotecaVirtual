@@ -18,17 +18,3 @@ class Libro:
     # pequeños errores (por ejemplo, algunos tipos de datos, nombres de 
     # métodos y cómo organizar ciertas responsabilidades), 
     # pero esos son ajustes normales mientras desarrollas el proyecto.
-libro1=Libro(
-    "tres certido",
-    "pepe",
-    "cuento",
-    2020,
-    "bueno",
-    """
-    narra la historia de tres hermanos que construyen casas de paja,
-    madera y ladrillo para protegerse de un lobo. 
-    El lobo destruye las casas más débiles, pero la de ladrillo resiste y los salva a todos
-    """)
-libro2=Libro(
-    
-)
